@@ -1,0 +1,23 @@
+{
+  "funnel": {
+    "total_viewers": 4870,
+    "total_product_viewers": 4806,
+    "total_cart_adders": 1865,
+    "total_buyers": 905
+  },
+  "conversion_rate_pct": 18.58,
+  "revenue": {
+    "total_purchases": 1001.0,
+    "total_revenue": 255375.66,
+    "avg_order_value": 255.12,
+    "max_purchase": 499.92
+  },
+  "customer_segments": {
+    "Loyal Customers": 173,
+    "Champions": 166,
+    "Lost": 155,
+    "Needs Attention": 153,
+    "New Customers": 135,
+    "At Risk": 123
+  }
+}

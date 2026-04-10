@@ -1,0 +1,43 @@
+SEGMENT RECOMMENDATIONS (AI-Generated)
+============================================================
+Generated: 2026-04-10 15:23:05.743206
+
+As an e-commerce marketing strategist, I have analyzed your 905 customers. Your segments are relatively balanced, which is healthy, but your "Lost" and "At Risk" segments are large enough to impact your bottom line if not addressed immediately.
+
+Here are the strategic recommendations for each segment:
+
+### CHAMPIONS
+*   **Campaign Objective:** Reward loyalty and leverage these customers as brand advocates to drive referrals.
+*   **Recommended Channel:** SMS + VIP Email.
+*   **Sample Message Copy:** "As one of our most valued members, you’ve earned early access to our new collection! Use code CHAMPION for a free gift with your order today."
+*   **Expected Outcome:** Increase in referral traffic and maintaining a high Lifetime Value (LTV).
+
+### LOYAL CUSTOMERS
+*   **Campaign Objective:** Increase Average Order Value (AOV) through personalized product recommendations based on past purchases.
+*   **Recommended Channel:** Personalized Email.
+*   **Sample Message Copy:** "We noticed you love our [Product Category]! Based on your style, we think these three items would be the perfect addition to your collection."
+*   **Expected Outcome:** Higher cross-sell conversion rates and stabilized purchase frequency.
+
+### NEW CUSTOMERS
+*   **Campaign Objective:** Drive the second purchase to bridge the gap between "one-time buyer" and "repeat customer."
+*   **Recommended Channel:** Email (Post-purchase automation).
+*   **Sample Message Copy:** "We hope you’re loving your first order! Here is 15% off your next purchase to help you find your next favorite thing."
+*   **Expected Outcome:** Reduced "one-and-done" rate and higher 30-day retention.
+
+### NEEDS ATTENTION
+*   **Campaign Objective:** Re-engage customers who are starting to drift away before they fall into the "At Risk" category.
+*   **Recommended Channel:** Email + Social Media Retargeting Ads.
+*   **Sample Message Copy:** "It’s been a little while! We’ve missed you, so we’ve put a $10 credit in your account to use on any order over $50 this weekend."
+*   **Expected Outcome:** A "pulse check" that brings customers back into the active buying cycle.
+
+### AT RISK
+*   **Campaign Objective:** Prevent total churn with a high-urgency, "win-back" offer.
+*   **Recommended Channel:** SMS (for high visibility).
+*   **Sample Message Copy:** "Don't go! We'd love to see you again. Use your exclusive 25% discount in the next 48 hours before it expires."
+*   **Expected Outcome:** Recovery of 10-15% of the segment that was on the verge of leaving the brand.
+
+### LOST
+*   **Campaign Objective:** Attempt a low-cost reactivation or gather feedback on why they stopped purchasing.
+*   **Recommended Channel:** Broad Social Media Retargeting / Lookalike Audience Seed.
+*   **Sample Message Copy:** "A lot has changed since your last visit. Check out our new arrivals and enjoy a 'Welcome Back' discount of 30%."
+*   **Expected Outcome:** Low-cost reactivation of dormant accounts and using their data to find similar "Champion" profiles via lookalike ads.
