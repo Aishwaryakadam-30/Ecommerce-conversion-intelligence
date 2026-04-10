@@ -1,0 +1,23 @@
+{
+  "day": 3,
+  "date": "2026-04-10 11:48:22.439044",
+  "raw_2024_rows": 74817,
+  "cleaned_2024_rows": 0,
+  "synthetic_2025_rows": 134057,
+  "master_total_rows": 134057,
+  "master_unique_users": 5000,
+  "master_unique_sessions": 17785,
+  "master_date_range": "2025-01-01 00:17:29 to 2025-12-31 00:04:30",
+  "funnel_2024": {
+    "page_view": 0,
+    "product_view": 0,
+    "add_to_cart": 0,
+    "purchase": 0
+  },
+  "funnel_2025": {
+    "page_view": 4870,
+    "product_view": 4806,
+    "add_to_cart": 1865,
+    "purchase": 905
+  }
+}

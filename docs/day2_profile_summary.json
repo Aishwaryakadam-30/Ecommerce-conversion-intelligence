@@ -1,0 +1,28 @@
+{
+  "dataset_shape": [
+    74817,
+    11
+  ],
+  "date_range": "2024-01-01 00:01:35.004064 to 2024-07-24 10:13:04.983908",
+  "unique_users": 1000,
+  "unique_sessions": 10,
+  "unique_products": 8747,
+  "event_distribution": {
+    "page_view": 10819,
+    "add_to_cart": 10735,
+    "product_view": 10696,
+    "logout": 10685,
+    "purchase": 10682,
+    "click": 10632,
+    "login": 10568
+  },
+  "funnel_counts": {
+    "page_view": "1000",
+    "product_view": "1000",
+    "add_to_cart": "1000",
+    "purchase": "1000"
+  },
+  "overall_conversion_rate": "100.00%",
+  "total_revenue": "$2,704,573.00",
+  "avg_order_value": "$253.19"
+}
