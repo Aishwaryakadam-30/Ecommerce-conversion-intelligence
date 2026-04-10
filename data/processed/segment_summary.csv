@@ -1,0 +1,7 @@
+customer_segment,shopper_count,avg_recency,avg_frequency,total_revenue,avg_revenue_per_shopper
+Champions,166,65.43,1.39,56712.08,341.64
+Loyal Customers,173,135.02,1.12,51724.68,298.99
+Lost,155,283.21,1.0,40167.89,259.15
+Needs Attention,153,233.76,1.0,37909.09,247.77
+At Risk,123,281.5,1.1,35310.38,287.08
+New Customers,135,72.93,1.0,33551.54,248.53
