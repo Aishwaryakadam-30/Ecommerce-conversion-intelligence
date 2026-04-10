@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: warehouse
+    schema: public
+    tables:
+      - name: fact_events
+      - name: dim_users
+      - name: dim_products

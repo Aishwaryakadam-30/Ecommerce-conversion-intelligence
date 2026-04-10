@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: funnel_metrics
+    description: "Funnel metrics aggregated per shopper"
+    columns:
+      - name: shopper_id
+        description: "Unique identifier for each shopper"
+        tests:
+          - not_null
+          - unique
+      - name: total_spent
+        description: "Total amount spent by shopper"
+        tests:
+          - not_null
+      - name: shopper_segment
+        tests:
+          - accepted_values:
+              values: ['converter', 'cart_abandoner', 'browser', 'visitor']
