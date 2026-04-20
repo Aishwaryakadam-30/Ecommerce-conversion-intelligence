@@ -1,0 +1,7 @@
+customer_segment,shopper_count,total_revenue,avg_revenue,avg_recency
+At Risk,123,35310.38,287.08,281.5
+Champions,166,56712.08,341.64,65.43
+Lost,155,40167.89,259.15,283.21
+Loyal Customers,173,51724.68,298.99,135.02
+Needs Attention,153,37909.09,247.77,233.76
+New Customers,135,33551.54,248.53,72.93
