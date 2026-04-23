@@ -213,3 +213,5 @@ __pycache__/
 *.db
 data/raw/*.csv
 !data/raw/.gitkeep
+streamlit_app/.streamlit/secrets.toml
+.streamlit/secrets.toml

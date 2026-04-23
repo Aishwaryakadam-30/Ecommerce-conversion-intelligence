@@ -9,9 +9,7 @@ import json
 from dotenv import load_dotenv
 
 # ===== SETUP =====
-load_dotenv()
-warehouse_connection = create_engine(os.getenv('DATABASE_URL'))
-gemini.configure(api_key=os.getenv('GEMINI_API_KEY'))
+
 brain = gemini.GenerativeModel('gemini-flash-latest')
 
 st.set_page_config(page_title="Funnel Intelligence", page_icon="📊", layout="wide")
